@@ -1,0 +1,276 @@
+{
+  "memories": [
+    {
+      "recordId": "INS-204",
+      "assetId": "P-104",
+      "assetName": "Asset P-104 \u2014 Hazira-Vijaipur Northern Feed Corridor",
+      "corridor": "Hazira-Vijaipur Northern Corridor",
+      "recordType": "inspection",
+      "eventDate": "2024-10-12",
+      "sanitizedSummary": "Inspection INS-204, on 12 October, confirmed corrosion at asset P-104. Repair completed on 15 October; follow-up inspection is pending.",
+      "findings": [
+        "corrosion",
+        "wall thinning 14%",
+        "external localized pitting"
+      ],
+      "actionsTaken": "Composite sleeve wrap installed on 15 October; seal coating reapplied.",
+      "followUpStatus": "pending",
+      "severity": "medium",
+      "sourceReference": "GAIL Technical Inspection Report INS-204 (In-Line MFL PIG Run)",
+      "loggedAt": "2024-10-12T10:00:00Z"
+    },
+    {
+      "recordId": "REP-104",
+      "assetId": "P-104",
+      "assetName": "Asset P-104 \u2014 Hazira-Vijaipur Northern Feed Corridor",
+      "corridor": "Hazira-Vijaipur Northern Corridor",
+      "recordType": "repair",
+      "eventDate": "2023-08-20",
+      "sanitizedSummary": "Repair REP-104, on 20 August 2023, reinforced circumferential weld with welded split sleeve following micro-fissure detection at asset P-104.",
+      "findings": [
+        "weld micro-fissure",
+        "slope joint shear stress"
+      ],
+      "actionsTaken": "Welded Type-B pressure-containing sleeve installed and radiographed.",
+      "followUpStatus": "completed",
+      "severity": "high",
+      "sourceReference": "Central Maintenance Repair Work Order #REP-104",
+      "loggedAt": "2023-08-20T10:00:00Z"
+    },
+    {
+      "recordId": "INS-178",
+      "assetId": "P-104",
+      "assetName": "Asset P-104 \u2014 Hazira-Vijaipur Northern Feed Corridor",
+      "corridor": "Hazira-Vijaipur Northern Corridor",
+      "recordType": "inspection",
+      "eventDate": "2023-02-14",
+      "sanitizedSummary": "Inspection INS-178, on 14 February 2023, flagged cathodic protection disbondment and early corrosion initiation at asset P-104 invert.",
+      "findings": [
+        "coating disbondment",
+        "early stage corrosion",
+        "soil moisture pooling"
+      ],
+      "actionsTaken": "Sacrificial zinc anode bed replenished; localized recoating completed.",
+      "followUpStatus": "completed",
+      "severity": "low",
+      "sourceReference": "Cathodic Protection Annual Field Survey #INS-178",
+      "loggedAt": "2023-02-14T10:00:00Z"
+    },
+    {
+      "recordId": "INS-GAIL-202",
+      "assetId": "IND-GAS-HVJ-001",
+      "assetName": "GAIL Hazira-Vijaipur-Jagdishpur (HVJ) Gas Trunk (Hazira to Vijaipur)",
+      "corridor": "Western Petrochemical & National Energy Corridor",
+      "recordType": "inspection",
+      "eventDate": "2024-06-18",
+      "sanitizedSummary": "Inspection INS-GAIL-202 confirmed superficial soil-induced oxidation near Ankleshwar river crossing at asset IND-GAS-HVJ-001. Monitored; wall loss within tolerance.",
+      "findings": [
+        "superficial oxidation",
+        "river scour proximity"
+      ],
+      "actionsTaken": "Erosion control rip-rap boulders placed along bank; continuous cathodic logging enabled.",
+      "followUpStatus": "monitoring",
+      "severity": "low",
+      "sourceReference": "GAIL SCADA & River Crossing Integrity Audit #202",
+      "loggedAt": "2024-06-18T10:00:00Z"
+    },
+    {
+      "recordId": "REP-GAIL-044",
+      "assetId": "IND-GAS-HVJ-001",
+      "assetName": "GAIL Hazira-Vijaipur-Jagdishpur (HVJ) Gas Trunk (Hazira to Vijaipur)",
+      "corridor": "Western Petrochemical & National Energy Corridor",
+      "recordType": "repair",
+      "eventDate": "2023-11-12",
+      "sanitizedSummary": "Repair REP-GAIL-044 replaced high-pressure isolation valve actuator and calibrated telemetry at Vadodara Compressor Station for asset IND-GAS-HVJ-001.",
+      "findings": [
+        "actuator seal weep",
+        "calibration drift"
+      ],
+      "actionsTaken": "Class 600 emergency shut-down ball valve rebuilt with hydrogen-rated seals.",
+      "followUpStatus": "completed",
+      "severity": "medium",
+      "sourceReference": "Vadodara Compressor Station Overhaul Log #044",
+      "loggedAt": "2023-11-12T10:00:00Z"
+    },
+    {
+      "recordId": "INS-IOCL-341",
+      "assetId": "IND-OIL-SMPL-005",
+      "assetName": "IOCL Salaya-Mathura Crude Oil Pipeline (SMPL)",
+      "corridor": "Salaya-Viramgam-Mathura Crude Corridor",
+      "recordType": "inspection",
+      "eventDate": "2024-03-05",
+      "sanitizedSummary": "Inspection INS-IOCL-341 detected mechanical dent and surface gouge caused by unauthorized farm trenching near Viramgam at asset IND-OIL-SMPL-005. Type-A structural sleeve fitted.",
+      "findings": [
+        "third party dent",
+        "mechanical gouge",
+        "unauthorized excavation"
+      ],
+      "actionsTaken": "Reinforcing steel sleeve welded; pipeline ROW markers re-installed.",
+      "followUpStatus": "completed",
+      "severity": "high",
+      "sourceReference": "IOCL Pipelines Division Line Patrol Incident Report #341",
+      "loggedAt": "2024-03-05T10:00:00Z"
+    },
+    {
+      "recordId": "REP-DJB-088",
+      "assetId": "IND-WTR-DJB-008",
+      "assetName": "Delhi Jal Board Sonia Vihar & Ring Road Bulk Water Transmission",
+      "corridor": "Delhi NCR Subsurface Corridor",
+      "recordType": "repair",
+      "eventDate": "2024-07-22",
+      "sanitizedSummary": "Repair REP-DJB-088 sealed high-volume gasket flange leak and replaced corroded high-tensile bolts under Kashmere Gate Ring Road for asset IND-WTR-DJB-008.",
+      "findings": [
+        "flange gasket failure",
+        "bolt galvanic corrosion",
+        "subsurface wet patch"
+      ],
+      "actionsTaken": "EPDM drinking-water grade gasket installed; heavy zinc-plated fasteners torqued to spec.",
+      "followUpStatus": "completed",
+      "severity": "high",
+      "sourceReference": "Delhi Jal Board Central Maintenance Division Work Ticket #088",
+      "loggedAt": "2024-07-22T10:00:00Z"
+    },
+    {
+      "recordId": "INS-MNL-019",
+      "assetId": "MNL-WTR-001",
+      "assetName": "Mall Road Potable Feeder Main",
+      "corridor": "Manali Mall Road Commercial Corridor",
+      "recordType": "inspection",
+      "eventDate": "2023-09-10",
+      "sanitizedSummary": "Inspection INS-MNL-019 confirmed joint displacement and lead-wool packing washout due to heavy monsoon road subsidence near Mall Road bus stand for asset MNL-WTR-001.",
+      "findings": [
+        "joint displacement",
+        "packing washout",
+        "road subsidence",
+        "dhasna"
+      ],
+      "actionsTaken": "Mechanical flexible joint clamp fitted; backfilled with crushed basalt scree.",
+      "followUpStatus": "completed",
+      "severity": "high",
+      "sourceReference": "Jal Shakti Vibhag (Kullu Division) Monsoon Emergency Log #019",
+      "loggedAt": "2023-09-10T10:00:00Z"
+    }
+  ],
+  "authoritativeDb": {
+    "INS-204": {
+      "recordId": "INS-204",
+      "assetId": "P-104",
+      "assetName": "Asset P-104 \u2014 Hazira-Vijaipur Northern Feed Corridor",
+      "corridor": "Hazira-Vijaipur Northern Corridor",
+      "recordType": "inspection",
+      "eventDate": "2024-10-12",
+      "sanitizedSummary": "Inspection INS-204, on 12 October, confirmed corrosion at asset P-104. Repair completed on 15 October; follow-up inspection is pending.",
+      "sourceReference": "GAIL Technical Inspection Report INS-204 (In-Line MFL PIG Run)",
+      "authoritativeData": {
+        "inspectorName": "Er. Vikramaditya Singh, Lead Integrity Inspector",
+        "stationSector": "Vadodara-Indore Section KM 84.2",
+        "soilCondition": "Moist alluvial scree with seasonal runoff",
+        "cathodicVoltageMv": -780,
+        "defectDepthMm": 1.25,
+        "pipeNominalWallMm": 9.52,
+        "notes": "MFL high-resolution tool flagged 14% wall loss at 6 oclock invert. Surface grit blasted, composite carbon-wrap sleeve cured at ambient temperature. Follow-up ultrasonic re-scan scheduled for Q1 2025."
+      }
+    },
+    "REP-104": {
+      "recordId": "REP-104",
+      "assetId": "P-104",
+      "assetName": "Asset P-104 \u2014 Hazira-Vijaipur Northern Feed Corridor",
+      "corridor": "Hazira-Vijaipur Northern Corridor",
+      "recordType": "repair",
+      "eventDate": "2023-08-20",
+      "sanitizedSummary": "Repair REP-104, on 20 August 2023, reinforced circumferential weld with welded split sleeve following micro-fissure detection at asset P-104.",
+      "sourceReference": "Central Maintenance Repair Work Order #REP-104",
+      "authoritativeData": {
+        "contractor": "GAIL Field Engineering Group",
+        "weldRadiographyReport": "RT-2023-882-PASS",
+        "hydrostaticTestPressureBar": 104.0,
+        "notes": "Circumferential stress relief performed. Coating restored with high-density polyurethane wrap."
+      }
+    },
+    "INS-178": {
+      "recordId": "INS-178",
+      "assetId": "P-104",
+      "assetName": "Asset P-104 \u2014 Hazira-Vijaipur Northern Feed Corridor",
+      "corridor": "Hazira-Vijaipur Northern Corridor",
+      "recordType": "inspection",
+      "eventDate": "2023-02-14",
+      "sanitizedSummary": "Inspection INS-178, on 14 February 2023, flagged cathodic protection disbondment and early corrosion initiation at asset P-104 invert.",
+      "sourceReference": "Cathodic Protection Annual Field Survey #INS-178",
+      "authoritativeData": {
+        "inspectorName": "Cathodic Systems Engineer S. Murthy",
+        "soilResistivityOhmM": 18.5,
+        "notes": "Groundwater saturation after winter rain caused localized polarization drop. Zinc ribbon anode augmented."
+      }
+    },
+    "INS-GAIL-202": {
+      "recordId": "INS-GAIL-202",
+      "assetId": "IND-GAS-HVJ-001",
+      "assetName": "GAIL Hazira-Vijaipur-Jagdishpur (HVJ) Gas Trunk (Hazira to Vijaipur)",
+      "corridor": "Western Petrochemical & National Energy Corridor",
+      "recordType": "inspection",
+      "eventDate": "2024-06-18",
+      "sanitizedSummary": "Inspection INS-GAIL-202 confirmed superficial soil-induced oxidation near Ankleshwar river crossing at asset IND-GAS-HVJ-001. Monitored; wall loss within tolerance.",
+      "sourceReference": "GAIL SCADA & River Crossing Integrity Audit #202",
+      "authoritativeData": {
+        "surveyType": "Direct Current Voltage Gradient (DCVG)",
+        "riverCrossingDepthM": 3.8
+      }
+    },
+    "REP-GAIL-044": {
+      "recordId": "REP-GAIL-044",
+      "assetId": "IND-GAS-HVJ-001",
+      "assetName": "GAIL Hazira-Vijaipur-Jagdishpur (HVJ) Gas Trunk (Hazira to Vijaipur)",
+      "corridor": "Western Petrochemical & National Energy Corridor",
+      "recordType": "repair",
+      "eventDate": "2023-11-12",
+      "sanitizedSummary": "Repair REP-GAIL-044 replaced high-pressure isolation valve actuator and calibrated telemetry at Vadodara Compressor Station for asset IND-GAS-HVJ-001.",
+      "sourceReference": "Vadodara Compressor Station Overhaul Log #044",
+      "authoritativeData": {
+        "workPermit": "GAIL-VAD-PTW-2023-9912",
+        "testedPressureBar": 88.0
+      }
+    },
+    "INS-IOCL-341": {
+      "recordId": "INS-IOCL-341",
+      "assetId": "IND-OIL-SMPL-005",
+      "assetName": "IOCL Salaya-Mathura Crude Oil Pipeline (SMPL)",
+      "corridor": "Salaya-Viramgam-Mathura Crude Corridor",
+      "recordType": "inspection",
+      "eventDate": "2024-03-05",
+      "sanitizedSummary": "Inspection INS-IOCL-341 detected mechanical dent and surface gouge caused by unauthorized farm trenching near Viramgam at asset IND-OIL-SMPL-005. Type-A structural sleeve fitted.",
+      "sourceReference": "IOCL Pipelines Division Line Patrol Incident Report #341",
+      "authoritativeData": {
+        "dentDepthPct": 4.2,
+        "patrolOfficer": "Inspector Harish Patel, Viramgam Base"
+      }
+    },
+    "REP-DJB-088": {
+      "recordId": "REP-DJB-088",
+      "assetId": "IND-WTR-DJB-008",
+      "assetName": "Delhi Jal Board Sonia Vihar & Ring Road Bulk Water Transmission",
+      "corridor": "Delhi NCR Subsurface Corridor",
+      "recordType": "repair",
+      "eventDate": "2024-07-22",
+      "sanitizedSummary": "Repair REP-DJB-088 sealed high-volume gasket flange leak and replaced corroded high-tensile bolts under Kashmere Gate Ring Road for asset IND-WTR-DJB-008.",
+      "sourceReference": "Delhi Jal Board Central Maintenance Division Work Ticket #088",
+      "authoritativeData": {
+        "waterLossRateLpm": 1800,
+        "trafficDiversionDurationHours": 6
+      }
+    },
+    "INS-MNL-019": {
+      "recordId": "INS-MNL-019",
+      "assetId": "MNL-WTR-001",
+      "assetName": "Mall Road Potable Feeder Main",
+      "corridor": "Manali Mall Road Commercial Corridor",
+      "recordType": "inspection",
+      "eventDate": "2023-09-10",
+      "sanitizedSummary": "Inspection INS-MNL-019 confirmed joint displacement and lead-wool packing washout due to heavy monsoon road subsidence near Mall Road bus stand for asset MNL-WTR-001.",
+      "sourceReference": "Jal Shakti Vibhag (Kullu Division) Monsoon Emergency Log #019",
+      "authoritativeData": {
+        "jointDeflectionDeg": 4.5,
+        "excavationDepthM": 1.4
+      }
+    }
+  }
+}
